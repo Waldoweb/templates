@@ -14,6 +14,8 @@ link3: https://www.banggood.com/TREATLIFE-SS01S-Single-Pole-2_4Ghz-Wi-Fi-Smart-L
 mlink: 
 ---
 
+Bought a 4-pack on eBay (probably Amazon return) and Tuya-Convert did NOT work. Took the switch apart and discovered a WB3S chip (non-ESP). Really like the switch look and feel though with the white LED. Might do a chip transplant.
+
 Tuya-Convert **DID NOT WORK** on Jan 11, 2021, using the 4-pack of switches: https://www.amazon.com/gp/product/B07R4MFWCQ.
 
 Tuya-Convert worked on Dec 21, 2020, amazon Canada: https://www.amazon.ca/gp/product/B07R7PCCT9
